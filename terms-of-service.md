@@ -1,0 +1,11 @@
+- Title: Krishimitra Terms of Service
+- Content:
+- Service: Krishimitra provides informational advisory via WhatsApp. It does not replace professional agronomy or legal/financial advice.
+- Eligibility: You must be authorized to use WhatsApp and provide accurate information.
+- User responsibilities: Don’t misuse the service; no spamming, illegal, or abusive content.
+- Availability: Service may change or be interrupted; we’re not liable for outages or data loss.
+- Privacy: See our Privacy Policy for data handling.
+- Disclaimers: Information is provided “as is”; we’re not liable for decisions you make based on it.
+- Termination: We may suspend access if terms are violated.
+- Governing law: India.
+- Contact: madhujyamazumdar07@gmail.com.
