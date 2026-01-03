@@ -1,0 +1,13 @@
+- Title: Krishimitra Privacy Policy
+- Content:
+- Who we are: Krishimitra is a WhatsApp-based advisory assistant for Assamese farmers.
+- Data we collect: WhatsApp phone number, messages you send to the bot, optional location/crop info you provide.
+- How we use data: To respond with crop advisory, irrigation planning, translation, and support; to improve service quality.
+- Legal basis: Consent when you message the bot; legitimate interest to provide requested services.
+- Sharing: We don’t sell data. We only share with service providers needed to run the bot (e.g., cloud hosting), under confidentiality.
+- Retention: We keep conversation logs only as long as needed to provide services and comply with law; you can request deletion anytime.
+- Security: We use industry-standard encryption in transit and restricted access.
+- Your rights: Access, correction, deletion. Contact: madhujyamazumdar07@gmail.com.
+- Children: Not intended for users under 18.
+- Updates: We may update this policy and will note the “Last updated” date.
+- Contact: madhujyamazumdar07@gmail.com.
