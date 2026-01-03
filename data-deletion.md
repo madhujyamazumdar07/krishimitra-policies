@@ -1,0 +1,6 @@
+- Title: Krishimitra Data Deletion
+- Content:
+- Request deletion via WhatsApp: Send a message to our bot: “Delete my data” from the same WhatsApp number you used. We’ll confirm and delete associated conversation records within 15 days.
+- Request deletion via email: Write to madhujyamazumdar07@gmail.com with your WhatsApp number. We’ll confirm and delete within 15 days.
+- Scope: We delete conversation logs and identifiers stored for service delivery. Some records may be retained if required by law.
+- Confirmation: We’ll reply once deletion is completed.
